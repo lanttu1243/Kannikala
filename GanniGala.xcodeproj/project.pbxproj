@@ -11,6 +11,8 @@
 		1E6A667E2B0AB361008EB024 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6A667D2B0AB361008EB024 /* ContentView.swift */; };
 		1E6A66802B0AB362008EB024 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E6A667F2B0AB362008EB024 /* Assets.xcassets */; };
 		1E6A66832B0AB362008EB024 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E6A66822B0AB362008EB024 /* Preview Assets.xcassets */; };
+		1E6A668A2B0BFB1A008EB024 /* handleInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6A66892B0BFB1A008EB024 /* handleInput.swift */; };
+		1E6A668C2B0BFB30008EB024 /* drink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E6A668B2B0BFB30008EB024 /* drink.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		1E6A667D2B0AB361008EB024 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E6A667F2B0AB362008EB024 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E6A66822B0AB362008EB024 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1E6A66892B0BFB1A008EB024 /* handleInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = handleInput.swift; sourceTree = "<group>"; };
+		1E6A668B2B0BFB30008EB024 /* drink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drink.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				1E6A667D2B0AB361008EB024 /* ContentView.swift */,
 				1E6A667F2B0AB362008EB024 /* Assets.xcassets */,
 				1E6A66812B0AB362008EB024 /* Preview Content */,
+				1E6A66892B0BFB1A008EB024 /* handleInput.swift */,
+				1E6A668B2B0BFB30008EB024 /* drink.swift */,
 			);
 			path = GanniGala;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E6A667E2B0AB361008EB024 /* ContentView.swift in Sources */,
+				1E6A668A2B0BFB1A008EB024 /* handleInput.swift in Sources */,
+				1E6A668C2B0BFB30008EB024 /* drink.swift in Sources */,
 				1E6A667C2B0AB361008EB024 /* GanniGalaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
